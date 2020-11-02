@@ -1,4 +1,4 @@
-// +build linux aix
+// +build linux aix os400
 // +build !appengine
 
 package isatty
